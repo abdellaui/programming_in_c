@@ -1,0 +1,35 @@
+
+
+deb|12-03-08|06:00:08.650| Lukas Maly gekommen
+deb|12-03-08|06:03:08.152| Lukas Maly abholte  Wagen <00991>
+deb|12-03-08|06:11:08:134| Kerstin Maly gekommen
+deb|12-03-08|06:15:08.132| India  Maly gekommen
+deb|12-03-08|06:16:08.132| Kerstin Maly abholte  Wagen <229>
+deb|12-03-08|06:17:08.132| India  Maly abholte  Wagen <1000>
+deb|12-03-08|10:00:08.600| Lukas Maly  zuruckgab Wagen <00991>
+deb|12-03-08|10:00:08.600| Lukas Maly gekommen
+deb|12-03-08|10:06:08.145| Lukas Maly abholte  Wagen <00992>
+deb|12-03-08|11:20:08.186| Kerstin Maly zuruckgab  Wagen <229>
+deb|12-03-08|11:25:08.167| Kerstin Maly abholte  Wagen <230>
+deb|12-03-08|11:00:08.100| India  Maly abholte  Wagen <1001>
+deb|12-03-08|13:00:08.345| Lukas Maly  zuruckgab Wagen <00992>
+deb|12-03-08|13:07:70.100| Kerstin Maly zuruckgab  Wagen <230>
+deb|12-03-08|15:08:08.189| India  Maly abholte  Wagen <1002>
+
+
+
+deb|13-03-08|06:00:08.345| Lukas Maly gekommen
+deb|13-03-08|06:11:08:134| Kerstin Maly gekommen
+deb|13-03-08|06:15:08.132| India  Maly gekommen
+deb|13-03-08|06:16:08.132| Kerstin Maly abholte  Wagen <231>
+deb|13-03-08|06:17:08.132| India  Maly abholte  Wagen <1003>
+deb|13-03-08|10:06:08.567| Lukas Maly abholte  Wagen <00993>
+deb|13-03-08|11:20:08.186| Kerstin Maly zuruckgab  Wagen <231>
+deb|13-03-08|11:25:08.167| Kerstin Maly abholte  Wagen <232>
+deb|13-03-08|11:00:08.100| India  Maly abholte  Wagen <1004>
+deb|13-03-08|13:00:08.786| Lukas Maly  zuruckgab Wagen <00993>
+deb|13-03-08|13:07:70.100| Kerstin Maly zuruckgab  Wagen <232>
+deb|13-03-08|15:05:08.345| Lukas Maly gekommen
+deb|13-03-08|15:08:08.189| Lukas Maly abholte  Wagen <00994>
+deb|13-03-08|18:20:08.100| Lukas Maly  zuruckgab Wagen <00994>
+

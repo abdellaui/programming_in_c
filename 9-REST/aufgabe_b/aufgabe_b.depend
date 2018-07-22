@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486329041 source:c:\users\abdullah\desktop\aufgabe_b\area_test.c
+	<stdio.h>
+	"area.h"
+
+1486054612 c:\users\abdullah\desktop\aufgabe_b\area.h
+
+1486054605 source:c:\users\abdullah\desktop\aufgabe_b\area.c
+	<stdio.h>
+

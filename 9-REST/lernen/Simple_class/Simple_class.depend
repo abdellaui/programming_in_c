@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493380206 source:c:\users\abdullah\desktop\lernen\simple_class\main.cpp
+	<iostream>
+	"Simple_class.cpp"
+
+1493380085 c:\users\abdullah\desktop\lernen\simple_class\simple_class.h
+
+1493380178 c:\users\abdullah\desktop\lernen\simple_class\simple_class.cpp
+	<iostream>
+	"Simple_class.h"
+

@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\abdullah\desktop\p_inc\programiereninc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487423538 source:c:\users\abdullah\desktop\p_inc\programiereninc\adressarithmetik(2).c
+	<stdio.h>
+
+1487423523 source:c:\users\abdullah\desktop\p_inc\programiereninc\array_basics(2).c
+	<stdio.h>
+
+1487423532 source:c:\users\abdullah\desktop\p_inc\programiereninc\array_parameter(1).c
+	<stdio.h>
+
+1487423494 source:c:\users\abdullah\desktop\p_inc\programiereninc\auto_stat.c
+	<stdio.h>
+
+1487423607 source:c:\users\abdullah\desktop\p_inc\programiereninc\bit_operationen.c
+	<stdio.h>
+
+1487423520 source:c:\users\abdullah\desktop\p_inc\programiereninc\call_by_reference(2).c
+	<stdio.h>
+
+1487423612 source:c:\users\abdullah\desktop\p_inc\programiereninc\datei_ein_aus_formatiert(2).c
+	<math.h>
+	<stdio.h>
+
+1487423636 source:c:\users\abdullah\desktop\p_inc\programiereninc\datei_kopieren.c
+	<stdio.h>
+
+1487423410 source:c:\users\abdullah\desktop\p_inc\programiereninc\ein_ausgabe.c
+	<stdio.h>
+
+1487423402 source:c:\users\abdullah\desktop\p_inc\programiereninc\ein_ausgabe_char.c
+	<stdio.h>
+
+1487423605 source:c:\users\abdullah\desktop\p_inc\programiereninc\ein_ausgabe_okt_hex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1487423685 source:c:\users\abdullah\desktop\p_inc\programiereninc\ein_ausgabe_string.c
+	<stdio.h>
+	<string.h>
+
+1487423405 source:c:\users\abdullah\desktop\p_inc\programiereninc\ein_ausgabe_unsigned.c
+	<stdio.h>
+
+1487423540 source:c:\users\abdullah\desktop\p_inc\programiereninc\eine_dimension(1).c
+	<stdio.h>
+
+1487423447 source:c:\users\abdullah\desktop\p_inc\programiereninc\einmaleins.c
+	<stdio.h>
+
+1487423490 source:c:\users\abdullah\desktop\p_inc\programiereninc\heron.c
+	<math.h>
+	<stdio.h>
+
+1487423579 source:c:\users\abdullah\desktop\p_inc\programiereninc\kennzeichen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1487423681 source:c:\users\abdullah\desktop\p_inc\programiereninc\kommandozeile.c
+	<stdio.h>
+
+1487423670 source:c:\users\abdullah\desktop\p_inc\programiereninc\laenge_string.c
+	<stdio.h>
+	<string.h>
+
+1487423436 source:c:\users\abdullah\desktop\p_inc\programiereninc\maximum.c
+	<stdio.h>
+
+1487423577 source:c:\users\abdullah\desktop\p_inc\programiereninc\punkte_strecken.c
+	<stdio.h>
+	<stdlib.h>
+
+1487424565 source:c:\users\abdullah\desktop\p_inc\programiereninc\rekursion.c
+	<stdio.h>
+
+1487423473 source:c:\users\abdullah\desktop\p_inc\programiereninc\sternchen.c
+	<stdio.h>
+
+1487423620 source:c:\users\abdullah\desktop\p_inc\programiereninc\text_zusammenfuegen(2).c
+	<stdio.h>
+
+1487423433 source:c:\users\abdullah\desktop\p_inc\programiereninc\vorkommen.c
+	<stdio.h>
+
+1487423305 source:c:\users\abdullah\desktop\p_inc\programiereninc\wertebereiche.c
+	<float.h>
+	<limits.h>
+	<stdio.h>
+
+1487423439 source:c:\users\abdullah\desktop\p_inc\programiereninc\werthaeufigkeit-do(1).c
+	<stdio.h>
+
+1487423678 source:c:\users\abdullah\desktop\p_inc\programiereninc\wochentage.c
+	<stdio.h>
+
+1487423443 source:c:\users\abdullah\desktop\p_inc\programiereninc\zahlenfolgelesen.c
+	<stdio.h>
+
+1487423674 source:c:\users\abdullah\desktop\p_inc\programiereninc\zeichen_ersetzen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1487423544 source:c:\users\abdullah\desktop\p_inc\programiereninc\zwei_dimensionen(2).c
+	<stdio.h>
+
+1485768776 source:c:\users\abdullah\desktop\p_inc\programiereninc\dreiecksmatrix\dreiecksmatrix.c
+	<stdio.h>
+	<stdlib.h>
+	"lower_triangle_matrix.h"
+
+1485623660 c:\users\abdullah\desktop\p_inc\programiereninc\dreiecksmatrix\lower_triangle_matrix.h
+

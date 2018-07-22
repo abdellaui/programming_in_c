@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494611403 source:c:\users\abdullah\desktop\lernen\algo_u2_a4\algo\levensheit.cpp
+	"levensheit.h"
+	<iostream>
+
+1494597749 c:\users\abdullah\desktop\lernen\algo_u2_a4\algo\levensheit.h
+	<string>
+
+1494611367 source:c:\users\abdullah\desktop\lernen\algo_u2_a4\algo\main.cpp
+	<iostream>
+	"levensheit.h"
+

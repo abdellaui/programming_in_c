@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1494542277 source:c:\users\abdullah\desktop\lernen\testerubung3\main.cpp
+	<iostream>
+	"count_13th.h"
+	"Weekday_statistics.h"
+
+1494540806 c:\users\abdullah\desktop\lernen\testerubung3\count_13th.cpp
+	<iostream>
+
+1494541418 c:\users\abdullah\desktop\lernen\testerubung3\count_13th.h
+	"Weekday_statistics.h"
+
+1494542138 source:c:\users\abdullah\desktop\lernen\testerubung3\weekday_statistics.cpp
+	"Weekday_statistics.h"
+	<iostream>
+
+1494539197 c:\users\abdullah\desktop\lernen\testerubung3\weekday_statistics.h
+
+1494539297 c:\users\abdullah\desktop\lernen\testerubung3\weekday_statistics.cpp
+	"Weekday_statistics.h"
+
+1494542391 source:c:\users\abdullah\desktop\lernen\testerubung3\count_13th.cpp
+	<iostream>
+	"Weekday_statistics.h"
+

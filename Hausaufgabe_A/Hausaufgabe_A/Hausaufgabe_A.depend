@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1481986241 source:c:\users\abdullah\desktop\hausaufgabe_a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datumrechner.h"
+	"zkfunc.h"
+
+1481902632 c:\users\abdullah\desktop\hausaufgabe_a\zkfunc.h
+
+1481905657 source:c:\users\abdullah\desktop\hausaufgabe_a\zkfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1481842652 source:c:\users\abdullah\desktop\hausaufgabe_a\datumrechner.c
+	<stdio.h>
+	<stdlib.h>
+
+1481842620 c:\users\abdullah\desktop\hausaufgabe_a\datumrechner.h
+
+1481990576 source:c:\users\abdullah\desktop\hausaufgabe_a\hausaufgabe_a\datumrechner.c
+	<stdio.h>
+	<stdlib.h>
+
+1482171692 source:c:\users\abdullah\desktop\hausaufgabe_a\hausaufgabe_a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datumrechner.h"
+	"zkfunc.h"
+
+1481846220 c:\users\abdullah\desktop\hausaufgabe_a\hausaufgabe_a\datumrechner.h
+
+1481906232 c:\users\abdullah\desktop\hausaufgabe_a\hausaufgabe_a\zkfunc.h
+
+1481909257 source:c:\users\abdullah\desktop\hausaufgabe_a\hausaufgabe_a\zkfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
